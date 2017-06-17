@@ -8,19 +8,19 @@
 ***bin***</br>　　编译出来的可执行程序或者库等，按环境区分，例如Windows/Linux</br>
 ***build***</br>　　编译脚本等，按环境区分，例如Windows/Linux</br>
 ***data***</br>　　用于训练或者测试的数据</br>
-***doc***</br>　　说明文档，例如《深入浅出TensorFlow.txt》</br>
+***doc***</br>　　说明文档，例如《深入浅出Caffe.txt》</br>
 ***samples***</br>　　一些实用的例子</br>
 ***src***</br>　　源码，包含caffe/caffe2/caffe2go</br>
-***tools***</br>　　开发TensorFlow_Fred所需要的工具包或者对应的资源网址</br>
+***tools***</br>　　开发CaffeAll_Fred所需要的工具包或者对应的资源网址</br>
 </br></br>
 ## 参考资源
-###caffe
+### caffe
 http://caffe.berkeleyvision.org/</br>
 https://github.com/BVLC/caffe</br>
-###caffe2
+### caffe2
 https://caffe2.ai/</br>
 https://github.com/caffe2/caffe2</br>
-###caffe2go
+### caffe2go
 
 </br></br>
 ## 版权说明
